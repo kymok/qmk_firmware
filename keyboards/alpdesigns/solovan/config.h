@@ -24,7 +24,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define PRODUCT_ID   0x27db
 #define DEVICE_VER   0x0001
 #define MANUFACTURER kymok
-#define PRODUCT      solovan
+#define PRODUCT      Solovan
 
 /* key matrix size */
 #define MATRIX_ROWS 6
@@ -153,5 +153,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* Bootmagic Lite key configuration */
 //#define BOOTMAGIC_LITE_ROW 0
 //#define BOOTMAGIC_LITE_COLUMN 0
-
-#define PRODUCT Solovan
